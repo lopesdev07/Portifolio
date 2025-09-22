@@ -6,5 +6,5 @@ Repositorio para armazenar meus primeiros projetos e estudos em programação, d
 
 ## Sobre mim
 Estudante de análise e desenvolvimento de software na PUCPR.
-Sou extremamente curioso e dedicado e me interesso por aprender coisas novas e pensamentos diferentes
+Sou extremamente curioso e dedicado e me interesso por aprender coisas novas e pensamentos diferentes.
 Atualmente focado em aprender sobre back-end e me especializar em Spring
